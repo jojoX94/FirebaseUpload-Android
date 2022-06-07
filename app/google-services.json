@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393235559724",
+    "project_id": "uploadfile-android",
+    "storage_bucket": "uploadfile-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393235559724:android:d814808c2cf38fb75d6889",
+        "android_client_info": {
+          "package_name": "com.futurmap.firebaseupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393235559724-88cfd36peed9a4bao65f34l21003vgmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI4lMvf7LERqPtqu6H2ugIOGWJeECKZMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393235559724-88cfd36peed9a4bao65f34l21003vgmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
